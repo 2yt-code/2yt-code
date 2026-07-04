@@ -32,6 +32,9 @@
 ### 🤝 Connect with me
 
 <p alig="left">
+  <a href="https://www.linkedin.com/in/kasra-jokar-b37153420/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://t.me/GKSVGk" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" />
   </a>
