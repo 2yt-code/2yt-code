@@ -11,9 +11,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on [**OrainAuth**](https://github.com/2yt-code/OrainAuth) — *A robust Django-based authentication system.*
-- 🌱 I’m currently mastering **Professional Django** and **Docker** for containerization.
-- 🎯 Goal: To build secure, scalable, and high-performance backend architectures.
+- 🔭 I’m currently working on [**OrainAuth**](https://github.com/2yt-code/OrainAuth) — *A robust Django-based authentication system*
+- 🌱 I’m currently mastering **Professional Django** and **Docker** for containerization
+- 🎯 Goal: To build secure, scalable, and high-performance backend architectures
 - 📫 Reach me at: [**2yt.dev.con@gmail.com**](mailto:2yt.dev.con@gmail.com)
 
 ---
