@@ -38,6 +38,9 @@
   <a href="https://www.instagram.com/2yt_code" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://dev.to/@2yt_code" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>
   <a href="https://stackoverflow.com/users/32859304/2yt" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/StackOverflow-%23FE8116.svg?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="StackOverflow" />
   </a>
