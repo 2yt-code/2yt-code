@@ -10,15 +10,14 @@
 ---
 
 ### 👨‍💻 About Me
-
-- 🔭 I’m currently working on [**OrainAuth**](https://github.com/2yt-code/OrainAuth) — *A robust Django-based authentication system*
-- 🌱 I’m currently mastering **Professional Django** and **Docker** for containerization
-- 🎯 Goal: To build secure, scalable, and high-performance backend architectures
+- 🔭 I’m currently work on [**OrainAuth**](https://github.com/2yt-code/OrainAuth) — *A robust Django-based authentication system*
+- 🌱 I’m currently mastering **Professiona Django** and **Docker** for containerization
+- 🎯 Goal: To build secure scalable, and high-performance backend architectures
 - 📫 Reach me at: [**2yt.dev.con@gmail.com**](mailto:2yt.dev.con@gmail.com)
 
 ---
 
-### 🛠 Languages and Tools
+### 🛠 Language and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -30,10 +29,18 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🤝 Connect with me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2yt-code&show_icons=true&theme=radical&hide_border=true" alt="2yt-code's GitHub stats" />
+<p alig="left">
+  <a href="https://t.me/GKSVGk" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.instagram.com/2yt_code" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://stackoverflow.com/users/32859304/2yt" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/StackOverflow-%23FE8116.svg?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="StackOverflow" />
+  </a>
 </p>
 
 <div align="center">
