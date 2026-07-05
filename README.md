@@ -11,7 +11,9 @@
 <!-- Social Links (Simplified & Clean) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasra-jokar-b37153420/)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2yt-code)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2yt.dev.con@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/GKSVGk)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/2yt_code)
 [![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/@2yt_code)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-%23FE8116.svg?style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/32859304/2yt)
 
