@@ -68,5 +68,5 @@
 <br/>
 
 <div align="center">
-  <sub>Built with ❤️ by <b>2yt</b></sub>
+  <sub>Made with ❤️ by <b>2yt</b></sub>
 </div>
