@@ -28,7 +28,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on [**OrainAuth**](https://github.com/2yt-code/OrainAuth) — *A robust Django-based authentication system*
+- 🔭 I’m currently working on [**Surgin**](https://github.com/2yt-code/Surgin) — *A robust web-based music streaming platform built with Django and MySQL*
 - 🌱 I’m mastering **Professional Django** and **Docker** for advanced containerization
 - 🎯 Goal: To build secure, scalable, and high-performance backend architectures
 - 📫 Reach me at: [**2yt.dev.con@gmail.com**](mailto:2yt.dev.con@gmail.com)
